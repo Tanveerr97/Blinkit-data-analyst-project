@@ -21,6 +21,6 @@ Outliers can significantly affect your analysis. You can identify outliers using
 After cleaning the data, you should save the cleaned version for further analysis or visualization.
 # Save the cleaned dataset
 data.to_csv('cleaned_blinkit_data.csv', index=False)
-Data Visualization in Power BI
+# Data Visualization in Power BI
 After you've cleaned and transformed your data in Jupyter, it's time to visualize it using Power BI. Power BI allows you to create interactive and insightful reports and dashboards.
 ![Image](https://github.com/user-attachments/assets/09f7b921-3992-4eeb-bd77-a6e3a0a8d0ed)
